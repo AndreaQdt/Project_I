@@ -1,2 +1,2 @@
 # Project_I
-Repo for CNN Model 
+Plant Recognition CNN Model  
